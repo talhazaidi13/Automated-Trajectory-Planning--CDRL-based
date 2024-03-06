@@ -6,6 +6,8 @@ CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 :-: | :-:
 <![CDRL based GTO to GEO transfer](/paper-outputs/GTO-GEO.gif) > | <![CDRL based GTO to GEO transfer](/paper-outputs/SuperGTO-GEO.gif) >
 
+![](https://github.com/talhazaidi13/Automated-Trajectory-Planning--A-CDRL-Approach-for-Low-Thrust-Spacecraft-Orbit-Raising/blob/main/paper-outputs/GTO-GEO.gif)
+
 
 ## Files Description
 
