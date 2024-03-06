@@ -1,12 +1,12 @@
 # Automated Trajectory Planning: A Cascaded Deep Reinforcement Learning Approach for Low-Thrust Spacecraft Orbit-Raising
 We provide the code repository for our paper This repository includes the necessary code to replicate our experiments and utilize our DRL model for spacecraft trajectory planning. By accessing the repository, researchers and practitioners can benefit from our approach to efficiently transfer spacecraft to GEO using low-thrust propulsion systems.
-https://ieeexplore.ieee.org/abstract/document/10207710
 
 CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 :-: | :-:
 <![CDRL based GTO to GEO transfer](/paper-outputs/GTO-GEO.gif) > | <![CDRL based GTO to GEO transfer](/paper-outputs/SuperGTO-GEO.gif) >
 
-![](https://github.com/talhazaidi13/Automated-Trajectory-Planning--A-CDRL-Approach-for-Low-Thrust-Spacecraft-Orbit-Raising/blob/main/paper-outputs/GTO-GEO.gif)
+![](https://github.com/talhazaidi13/Cascaded-Deep-Reinforcement-Learning-Based-Multi-Revolution-Low-Thrust-Spacecraft-Orbit-Transfer/blob/main/paper-outputs/GTO-GEO.gif)
+
 
 
 ## Files Description
