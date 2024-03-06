@@ -3,9 +3,8 @@ We provide the code repository for our paper This repository includes the necess
 
 CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 :-: | :-:
-<![CDRL based GTO to GEO transfer](/paper-outputs/GTO-GEO.gif) > | <![CDRL based GTO to GEO transfer](/paper-outputs/SuperGTO-GEO.gif) >
 
-![](https://github.com/talhazaidi13/Cascaded-Deep-Reinforcement-Learning-Based-Multi-Revolution-Low-Thrust-Spacecraft-Orbit-Transfer/blob/main/paper-outputs/GTO-GEO.gif)
+<![CDRL based GTO to GEO transfer](https://github.com/talhazaidi13/Cascaded-Deep-Reinforcement-Learning-Based-Multi-Revolution-Low-Thrust-Spacecraft-Orbit-Transfer/blob/main/paper-outputs/GTO-GEO.gif) >  | <![CDRL based GTO to GEO transfer](https://github.com/talhazaidi13/Cascaded-Deep-Reinforcement-Learning-Based-Multi-Revolution-Low-Thrust-Spacecraft-Orbit-Transfer/blob/main/paper-outputs/SuperGTO-GEO.gif) >
 
 
 
